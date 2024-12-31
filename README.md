@@ -1,16 +1,24 @@
-## Hi there 👋
+# 个人简介
 
-<!--
-**jisuanjiQAQ/jisuanjiQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 你好！我是计算机qwq，一名高级品种为学校打工的牛马。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **专业技能**：
+  - 精通：百度（遇到问题就百度一下）、必应（必应一下我就不知道）、向群友问问题、睡觉（一睡睡到下午）
+
+- 📚 **教育背景**：
+  - czs一位
+
+- 🌟 **兴趣爱好**：
+  - 📖 阅读不知名小本本
+  - 🏆 偷懒第一名
+  - 🌐 网络与人对线
+  - 🎮 手残党，游戏是打不过的
+
+## 社交
+
+- 📧 邮箱：[qq3522322002@outlook.com](mailto:qq3522322002@outlook.com)
+- 📺 哔哩哔哩：[哔哩哔哩个人主页](https://space.bilibili.com/477994226/)
+
+
